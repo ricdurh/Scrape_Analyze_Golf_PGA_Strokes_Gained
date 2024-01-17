@@ -4,8 +4,8 @@
 - Strokes Gained categorized as follows:
 -       'ott_total': off the tee
         'pr_total': approach
-      - 'arg_total': around the green
-      - PUTTING': putting
+        'arg_total': around the green
+        PUTTING': putting
 - Categorized by the following finishes:
       - 'top 10'
       - 'middle': finished 11-40
