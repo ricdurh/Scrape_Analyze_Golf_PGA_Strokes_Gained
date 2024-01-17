@@ -2,7 +2,7 @@
 
 - Scraped 2004-2022 data from pgatour.com
 - Strokes Gained categorized as follows:
-      - 'ott_total': off the tee
+- - 'ott_total': off the tee
       - 'apr_total': approach
       - 'arg_total': around the green
       - 'PUTTING': putting
