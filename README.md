@@ -2,6 +2,8 @@
 
 - Scraped 2004-2022 data from pgatour.com
 - Strokes Gained categorized as follows:
+-            - asdf
+- 
             * asdf
       - 'ott_total': off the tee
       - 'apr_total': approach
