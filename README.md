@@ -7,9 +7,9 @@
         'arg_total': around the green
         PUTTING': putting
 - Categorized by the following finishes:
-      - 'top 10'
-      - 'middle': finished 11-40
-      - 'bottom': made cut but outside top 40
+-         'top 10'
+          'middle': finished 11-40
+          'bottom': made cut but outside top 40
 
 
 - Strokes Gained by finish 2004-2022
