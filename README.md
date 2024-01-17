@@ -16,8 +16,10 @@
 ![](/images/_sg_by_finish.png)
 
 - Average Strokes Gained by Finish at The McGladrey Classic / The RSM Classic
+
 ![](/images/_McGladrey.png)
 
 
 - Average Strokes Gained by Finish at The Byron Nelson Classic
+
 ![](/images/_hp_golf.png)
